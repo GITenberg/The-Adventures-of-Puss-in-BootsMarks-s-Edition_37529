@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37529#The-Adventures-of-Puss-in-BootsMarks-s-Edition
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2011-09-25'
 gutenberg_type: Text
